@@ -3,8 +3,3 @@
 	url = https://github.com/r-universe-org/cran-to-git
 	shallow = true
 	branch = HEAD
-[submodule "PAST"]
-	path = PAST
-	url = https://github.com/igbb/past
-	shallow = true
-	registered = true
